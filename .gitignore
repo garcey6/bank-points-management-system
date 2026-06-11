@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+frontend/dist/
+backend/target/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle (if used)
+.gradle/
+build/
+
+# Spring Boot
+application-local.properties
